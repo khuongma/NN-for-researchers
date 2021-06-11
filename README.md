@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][assets/screenshot]](https://example.com)
+[[NN for Researchers Screen Shot]<img src="assets/screenshot.png" alt="screenshot">](https://example.com)
 
 ### Built With
 
