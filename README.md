@@ -21,7 +21,6 @@
 
   <h3 align="center">NN for researchers</h3>
   <p align="center">
-    This script is for a discord bot that uses the instructor canvas api to retrieve assignments, quizzes, and discussion topics in version 1.0
     <br />
     <a href="https://github.com/khuongma/NN-for-researchers"><strong>Explore the docs »</strong></a>
     <br />
